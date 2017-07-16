@@ -1,0 +1,59 @@
+.thumbnail-holder {
+    height: 200px;
+}
+
+ul li.active a {
+    border-color: #8dc63f !important;
+}
+
+.label-link {
+    float: right;
+}
+
+/*
+Shopping List
+------------------------------------- */
+ul.ingredients.shopping-list{
+    padding: 0px 0;
+}
+
+/* Login Form
+------------------------------------- */
+#login fieldset div  {
+	margin-bottom: 15px;
+}
+
+#login fieldset div input {
+	width: 275px;
+}
+
+#login input {
+	-webkit-transition: background 200ms ease-in-out, border-color 200ms ease-in-out;
+	-moz-transition: background 200ms ease-in-out, border-color 200ms ease-in-out;
+	-o-transition: background 200ms ease-in-out, border-color 200ms ease-in-out;
+	-ms-transition: background 200ms ease-in-out, border-color 200ms ease-in-out;
+	transition: background 200ms ease-in-out, border-color 200ms ease-in-out;
+}
+
+#login input:focus {
+	outline: none;
+	position: relative;
+	z-index: 5;
+}
+
+#login input.error{
+	border: 1px solid #f6d5d3;
+	background: #ffeceb;
+}
+
+#login label {
+	margin-bottom: 5px;
+}
+
+#login label span {
+	color: #e24747;
+}
+
+#login input[type="submit"] {
+    width: 100%;
+}

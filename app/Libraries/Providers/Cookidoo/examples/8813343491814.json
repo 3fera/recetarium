@@ -1,0 +1,3233 @@
+{
+    "links": [
+        {
+            "rel": "recipe.Recipe.recipeStepGroups",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/recipeStepGroups"
+        },
+        {
+            "rel": "self",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886"
+        },
+        {
+            "rel": "recipe.Recipe.primaryCategory",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/primaryCategory"
+        },
+        {
+            "rel": "recipe.Recipe.recipeIngredientGroups",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/recipeIngredientGroups"
+        },
+        {
+            "rel": "recipe.Recipe.thermomixes",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/thermomixes"
+        },
+        {
+            "rel": "recipe.Recipe.compatibleThermomixes",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/compatibleThermomixes"
+        },
+        {
+            "rel": "recipe.Recipe.imageSlots",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/imageSlots"
+        },
+        {
+            "rel": "recipe.Recipe.collections",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/collections"
+        },
+        {
+            "rel": "recipe.Recipe.categories",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/categories"
+        },
+        {
+            "rel": "recipe.Recipe.recipeNutritionGroups",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/recipeNutritionGroups"
+        },
+        {
+            "rel": "recipe.Recipe.portion",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/portion"
+        },
+        {
+            "rel": "recipe.Recipe.times",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/times"
+        },
+        {
+            "rel": "recipe.Recipe.additionalInformations",
+            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipe\/8830319968886\/additionalInformations"
+        }
+    ],
+    "additionalInformations": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/additionalInformation\/8830647386741"
+                }
+            ],
+            "information": "<ul>\n<li>Si le gusta m&aacute;s cremoso, programe 5 minutos m&aacute;s en el paso\u00a01. Por el contrario, si le gusta m&aacute;s claro, a&ntilde;ada 50\u00a0g m&aacute;s de leche&nbsp;al final y mezcle con la esp&aacute;tula.<\/li>\n<\/ul>",
+            "type": "TIP"
+        }
+    ],
+    "favCount": 1375,
+    "thermomixes": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/thermomix\/8796093193690"
+                }
+            ],
+            "name": "TM5"
+        }
+    ],
+    "priceLevel": "LOW",
+    "primaryCategory": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/primaryCategory\/8796486369379"
+            },
+            {
+                "rel": "primaryCategory.PrimaryCategory.recipeRefs",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/primaryCategory\/8796486369379\/recipeRefs"
+            },
+            {
+                "rel": "primaryCategory.PrimaryCategory.collectionRefs",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/primaryCategory\/8796486369379\/collectionRefs"
+            },
+            {
+                "rel": "primaryCategory.PrimaryCategory.recipes",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/primaryCategory\/8796486369379\/recipes"
+            },
+            {
+                "rel": "primaryCategory.PrimaryCategory.collections",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/primaryCategory\/8796486369379\/collections"
+            }
+        ],
+        "title": "Postres y dulces",
+        "imageUrl": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVXV2X2wyasMMmD3EjGUMQeXBR%2F60BrwzMNuH2mecOsG4Jfjntt0U7dHjxONuEf654f%2FOwTd%2FIwC8P1aToQbZ5k3Kuao%2BGjlwnCef2E8yW3nJg%3D%3D",
+        "code": "VrkNavCategory-RPF-011",
+        "colorCode": "#8b1a9a"
+    },
+    "compatibleThermomixes": [],
+    "v1Id": "com.vorwerk.recipe-tm5.Recipe-rpf-45146",
+    "locale": "LanguageModel (8796125954080)",
+    "imageSlots": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8796424455910"
+                }
+            ],
+            "name": "iphone_recipe_thumb",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6ssqki9QCAvTyeRBy0MSrSJtTVhFlttt%2F8mTXGclChRYA%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8805189895910"
+                }
+            ],
+            "name": "ipad_recipe_thumb_motw",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5JpF%2BFcDNEgYCvDJnwPIawKqJaEgLIiBVOp4I84mxgBWYAh5UNy%2BfoSBnl0o%2F4g1%2BQ%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8806391924454"
+                }
+            ],
+            "name": "iphone_recipe_quickview",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6tmDPlauNUFuDBDwXazGFcIPEYnPB80qvsa20H3JsBsJA%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8807395641062"
+                }
+            ],
+            "name": "ipad_recipe_quickview",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5J1B%2FjuZzxblT28VxoWMcEbumO7ttJfvjTsTwBPoiTDf4VFw57P8mFCSH0Gomp8LDQ%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8808674871014"
+                }
+            ],
+            "name": "ipad_recipe_thumb_large",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5JpF%2BFcDNEgYCvDJnwPIawKxGB8C7KAULhBwA7zLZpJWCFGxHiEdS7gFKy2IkyDPtw%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8811055924966"
+                }
+            ],
+            "name": "ipad_recipe_thumb_shoppinglist",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5J1B%2FjuZzxblT28VxoWMcEb7bkzWb8s6kG74o6fPlBg4VdrGDDJtAF33y%2FsgWnISHQ%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8811086923494"
+                }
+            ],
+            "name": "ipad_recipe_thumb",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6ssqki9QCAvTyeRBy0MSrSJtTVhFlttt%2F8mTXGclChRYA%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8813343491814"
+                }
+            ],
+            "name": "webapp_recipe_suggestion",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6uREhwn6cLfBb8XDqsZO7SxTfoalRXSzsi1La25fJzqhg%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8813343524582"
+                }
+            ],
+            "name": "webapp_recipe_shoppinglist",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6tmxBqkAETUbh8uJ5doOBSutDhee9%2BDUg4deqZ%2BuiUJcw%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8813343557350"
+                }
+            ],
+            "name": "webapp_recipe_thumb",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5Oga%2Fs5sUmqfxEHVj%2Fz2v6sTEiFjDRguD%2FuXg9%2BttWVbKNJZA%2BDuKcBK76CcILlPuQ%3D%3D"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8827365017318"
+                }
+            ],
+            "name": "tcr_recipe_thumb",
+            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbXzM4dtZbkAlU3qK05%2FwB5J1B%2FjuZzxblT28VxoWMcEYOoHh3tfGhKhne8%2BlUWgIj99uVTjh7b5Z%2F9X48RD4sFw%3D%3D"
+        }
+    ],
+    "difficulty": "EASY",
+    "recipeNutritionGroups": [
+        {
+            "links": [
+                {
+                    "rel": "recipeNutritionGroup.RecipeNutritionGroup.recipeNutritions",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutritionGroup\/8830353556089\/recipeNutritions"
+                },
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutritionGroup\/8830353556089"
+                }
+            ],
+            "recipeNutritions": [
+                {
+                    "links": [
+                        {
+                            "rel": "recipeNutrition.RecipeNutrition.nutrition",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutrition\/8832388121208\/nutrition"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutrition\/8832388121208"
+                        }
+                    ],
+                    "nutrition": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673705079"
+                                }
+                            ],
+                            "unitType": "K_J",
+                            "number": 2240,
+                            "type": "K_J"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673737847"
+                                }
+                            ],
+                            "unitType": "KCAL",
+                            "number": 535,
+                            "type": "KCAL"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673770615"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 11.31,
+                            "type": "PROTEIN"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673836151"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 80.11,
+                            "type": "CARB"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673803383"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 18.75,
+                            "type": "FAT"
+                        }
+                    ],
+                    "servingSizeNotation": "raci\u00f3n",
+                    "quantity": 1,
+                    "servingSizeUnit": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094874221"
+                            }
+                        ],
+                        "name": "raci\u00f3n",
+                        "type": "UNIT"
+                    }
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutrition\/8832388153976"
+                        },
+                        {
+                            "rel": "recipeNutrition.RecipeNutrition.nutrition",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeNutrition\/8832388153976\/nutrition"
+                        }
+                    ],
+                    "nutrition": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673868919"
+                                }
+                            ],
+                            "unitType": "K_J",
+                            "number": 4480,
+                            "type": "K_J"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673967223"
+                                }
+                            ],
+                            "unitType": "KCAL",
+                            "number": 1070,
+                            "type": "KCAL"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673901687"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 22.62,
+                            "type": "PROTEIN"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673934455"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 160.22,
+                            "type": "CARB"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/nutritionElement\/8847673999991"
+                                }
+                            ],
+                            "unitType": "G",
+                            "number": 37.5,
+                            "type": "FAT"
+                        }
+                    ],
+                    "servingSizeNotation": "raciones",
+                    "quantity": 2,
+                    "servingSizeUnit": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094874221"
+                            }
+                        ],
+                        "name": "raci\u00f3n",
+                        "type": "UNIT"
+                    }
+                }
+            ],
+            "name": ""
+        }
+    ],
+    "times": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/time\/8832115655284"
+                }
+            ],
+            "value": 3300,
+            "type": "TOTAL_TIME"
+        },
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/time\/8832115688052"
+                }
+            ],
+            "value": 300,
+            "type": "ACTIVE_TIME"
+        }
+    ],
+    "recipeIngredientGroups": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientGroup\/8830657020541"
+                },
+                {
+                    "rel": "recipeIngredientGroup.RecipeIngredientGroup.recipeIngredients",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientGroup\/8830657020541\/recipeIngredients"
+                }
+            ],
+            "recipeIngredients": [
+                {
+                    "links": [
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727815806\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727815806"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727815806\/alternativeIngredient"
+                        }
+                    ],
+                    "recipeIngredientUnits": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientUnit\/8798277517939"
+                                }
+                            ],
+                            "unit": {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094448237"
+                                    }
+                                ],
+                                "name": "gramo",
+                                "type": "UNIT"
+                            },
+                            "notation": "g"
+                        }
+                    ],
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118532713\/foodCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118532713\/shoppingCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118532713\/additionalNames"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118532713"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271788656"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271723120"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271821424"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271755888"
+                                    }
+                                ],
+                                "name": "leche"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271886960"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271854192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271919728"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796279358064"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272312944"
+                                    }
+                                ],
+                                "name": "l\u00e1cteo"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796279390832"
+                                    }
+                                ],
+                                "name": " leche"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271690352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272018032"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271690352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271886960"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271690352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271919728"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271755888"
+                                    }
+                                ],
+                                "name": "leche"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271690352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271690352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271919728"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271788656"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272247408"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796403221104"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831123440240"
+                                    }
+                                ],
+                                "name": " leche entera"
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094284398"
+                                    }
+                                ],
+                                "name": "L\u00e1cteos (incluida mantequilla)"
+                            }
+                        ],
+                        "name": "leche entera"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371538026"
+                            }
+                        ],
+                        "value": 550
+                    },
+                    "notation": "de leche entera"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727881342"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727881342\/alternativeIngredient"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727881342\/recipeIngredientUnits"
+                        }
+                    ],
+                    "recipeIngredientUnits": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientUnit\/8798277550707"
+                                }
+                            ],
+                            "unit": {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094448237"
+                                    }
+                                ],
+                                "name": "gramo",
+                                "type": "UNIT"
+                            },
+                            "notation": "g"
+                        }
+                    ],
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796122169961\/additionalNames"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796122169961\/foodCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796122169961\/shoppingCategories"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796122169961"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796288238192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308652656"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308554352"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796303802992"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308718192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796311863920"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796311896688"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308816496"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796288238192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308652656"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796288238192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796288238192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796288238192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308456048"
+                                    }
+                                ],
+                                "name": "arroz"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308718192"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796311863920"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796311896688"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831778341488"
+                                    }
+                                ]
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094087790"
+                                    }
+                                ],
+                                "name": "Cereales (arroz, pasta, harina, etc..) y legumbres secas"
+                            }
+                        ],
+                        "name": "arroz de grano redondo, para arroz con leche"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371636330"
+                            }
+                        ],
+                        "value": 70
+                    },
+                    "notation": "de arroz de grano redondo"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727848574\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727848574"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727848574\/alternativeIngredient"
+                        }
+                    ],
+                    "recipeIngredientUnits": [],
+                    "preparation": "(solo la parte amarilla)",
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118696553\/foodCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118696553\/shoppingCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118696553\/additionalNames"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796118696553"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276146800"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276212336"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276277872"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276245104"
+                                    }
+                                ],
+                                "name": "fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276343408"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276376176"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276245104"
+                                    }
+                                ],
+                                "name": "fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276408944"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796281160304"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276474480"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276507248"
+                                    }
+                                ],
+                                "name": " fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276507248"
+                                    }
+                                ],
+                                "name": " fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796285125232"
+                                    }
+                                ],
+                                "name": " lim\u00f3n"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796392243824"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796293579376"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796392276592"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796392309360"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796285420144"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796392342128"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796281193072"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276376176"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796392243824"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276245104"
+                                    }
+                                ],
+                                "name": "fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276245104"
+                                    }
+                                ],
+                                "name": "fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276572784"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796333195888"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276245104"
+                                    }
+                                ],
+                                "name": "fruta"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276212336"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8830926078576"
+                                    }
+                                ]
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094153326"
+                                    }
+                                ],
+                                "name": "Frutas"
+                            }
+                        ],
+                        "name": "piel de lim\u00f3n"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371570794"
+                            }
+                        ],
+                        "value": 1
+                    },
+                    "notation": "tira de piel de lim\u00f3n"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727914110"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727914110\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727914110\/alternativeIngredient"
+                        }
+                    ],
+                    "recipeIngredientUnits": [],
+                    "preparation": "(solo la parte naranja)",
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796125774441"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796125774441\/foodCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796125774441\/shoppingCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796125774441\/additionalNames"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796298789488"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276277872"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335063664"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276376176"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335129200"
+                                    }
+                                ],
+                                "name": " naranja"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335096432"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335129200"
+                                    }
+                                ],
+                                "name": " naranja"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335194736"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335260272"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796281193072"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796298789488"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276376176"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335030896"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796298789488"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335194736"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276310640"
+                                    }
+                                ],
+                                "name": "c\u00edtrico"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335129200"
+                                    }
+                                ],
+                                "name": " naranja"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796298789488"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796276179568"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796298789488"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280832624"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335194736"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335260272"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831384601200"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831551455856"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831551488624"
+                                    }
+                                ],
+                                "name": " piel de naranja"
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094153326"
+                                    }
+                                ],
+                                "name": "Frutas"
+                            }
+                        ],
+                        "name": "piel de naranja"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371669098"
+                            }
+                        ],
+                        "value": 1
+                    },
+                    "notation": "tira de piel de naranja"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728012414\/alternativeIngredient"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728012414\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728012414"
+                        }
+                    ],
+                    "recipeIngredientUnits": [],
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796121842281\/foodCategories"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796121842281"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796121842281\/additionalNames"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796121842281\/shoppingCategories"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268315248"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274475632"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274508400"
+                                    }
+                                ],
+                                "name": "especia"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268446320"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268610160"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302164592"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268675696"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308390512"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308390512"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268446320"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274508400"
+                                    }
+                                ],
+                                "name": "especia"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274475632"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308390512"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831254020720"
+                                    }
+                                ]
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094317166"
+                                    }
+                                ],
+                                "name": "Productos para reposter\u00eda, productos azucarados, frutos secos (menos los de aperitivo) y semillas"
+                            }
+                        ],
+                        "name": "palo de canela"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371603562"
+                            }
+                        ],
+                        "value": 0.5
+                    },
+                    "notation": "palo de canela"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727946878"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727946878\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727946878\/alternativeIngredient"
+                        }
+                    ],
+                    "recipeIngredientUnits": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientUnit\/8798277583475"
+                                }
+                            ],
+                            "unit": {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094448237"
+                                    }
+                                ],
+                                "name": "gramo",
+                                "type": "UNIT"
+                            },
+                            "notation": "g"
+                        }
+                    ],
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117746281\/additionalNames"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117746281\/shoppingCategories"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117746281"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117746281\/foodCategories"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270183024"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270150256"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270248560"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270215792"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270281328"
+                                    }
+                                ],
+                                "name": "az\u00facar"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270314096"
+                                    }
+                                ],
+                                "name": "edulcorante"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270346864"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270412400"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270445168"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270477936"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270510704"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270576240"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270609008"
+                                    }
+                                ],
+                                "name": "endulzante"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270641776"
+                                    }
+                                ],
+                                "name": " az\u00facar"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270740080"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270379632"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270346864"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270281328"
+                                    }
+                                ],
+                                "name": "az\u00facar"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270314096"
+                                    }
+                                ],
+                                "name": "edulcorante"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270051952"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270543472"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270445168"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270183024"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796270150256"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796465250928"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302557808"
+                                    }
+                                ]
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094317166"
+                                    }
+                                ],
+                                "name": "Productos para reposter\u00eda, productos azucarados, frutos secos (menos los de aperitivo) y semillas"
+                            }
+                        ],
+                        "name": "az\u00facar"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371734634"
+                            }
+                        ],
+                        "value": 80
+                    },
+                    "notation": "de az\u00facar"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727979646"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727979646\/alternativeIngredient"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798727979646\/recipeIngredientUnits"
+                        }
+                    ],
+                    "recipeIngredientUnits": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredientUnit\/8798277681779"
+                                }
+                            ],
+                            "unit": {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/unit\/8796094448237"
+                                    }
+                                ],
+                                "name": "gramo",
+                                "type": "UNIT"
+                            },
+                            "notation": "g"
+                        }
+                    ],
+                    "optional": true,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117910121\/additionalNames"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117910121"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117910121\/shoppingCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796117910121\/foodCategories"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272935536"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272968304"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273001072"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273033840"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273066608"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273099376"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273132144"
+                                    }
+                                ],
+                                "name": "grasas"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273230448"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272509552"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273197680"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273295984"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273263216"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272312944"
+                                    }
+                                ],
+                                "name": "l\u00e1cteo"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273328752"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796271952496"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272738928"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273427056"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273394288"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273361520"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273459824"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273492592"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272902768"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273361520"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273230448"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273427056"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272902768"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273361520"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273132144"
+                                    }
+                                ],
+                                "name": "grasas"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273164912"
+                                    }
+                                ],
+                                "name": "mantequilla"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272902768"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273361520"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272902768"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273361520"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272935536"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796272968304"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796286960240"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796273394288"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796353446512"
+                                    }
+                                ],
+                                "name": " mantequilla"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796335555184"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796353380976"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831652020848"
+                                    }
+                                ]
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094284398"
+                                    }
+                                ],
+                                "name": "L\u00e1cteos (incluida mantequilla)"
+                            }
+                        ],
+                        "name": "mantequilla"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371701866"
+                            }
+                        ],
+                        "value": 20
+                    },
+                    "notation": "de mantequilla"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.alternativeIngredient",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728110718\/alternativeIngredient"
+                        },
+                        {
+                            "rel": "recipeIngredient.RecipeIngredient.recipeIngredientUnits",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728110718\/recipeIngredientUnits"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeIngredient\/8798728110718"
+                        }
+                    ],
+                    "recipeIngredientUnits": [],
+                    "preparation": "para espolvorear",
+                    "optional": false,
+                    "ingredient": {
+                        "links": [
+                            {
+                                "rel": "ingredient.Ingredient.additionalNames",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796120892009\/additionalNames"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.foodCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796120892009\/foodCategories"
+                            },
+                            {
+                                "rel": "ingredient.Ingredient.shoppingCategories",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796120892009\/shoppingCategories"
+                            },
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/ingredient\/8796120892009"
+                            }
+                        ],
+                        "foodCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268315248"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274475632"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274508400"
+                                    }
+                                ],
+                                "name": "especia"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268446320"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796275393136"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302099056"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302164592"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268479088"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796280439408"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302131824"
+                                    }
+                                ],
+                                "name": " canela"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268675696"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796308390512"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268446320"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796275393136"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274508400"
+                                    }
+                                ],
+                                "name": "especia"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796268249712"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796275393136"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796274475632"
+                                    }
+                                ]
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8796302131824"
+                                    }
+                                ],
+                                "name": " canela"
+                            },
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/foodCategory\/8831058756208"
+                                    }
+                                ],
+                                "name": " canela molida"
+                            }
+                        ],
+                        "shoppingCategories": [
+                            {
+                                "links": [
+                                    {
+                                        "rel": "self",
+                                        "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/shoppingCategory\/8796094218862"
+                                    }
+                                ],
+                                "name": "Especias y condimentos"
+                            }
+                        ],
+                        "name": "canela molida"
+                    },
+                    "quantity": {
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8801371800170"
+                            }
+                        ],
+                        "value": 0
+                    },
+                    "notation": "canela molida"
+                }
+            ]
+        }
+    ],
+    "name": "Arroz con leche",
+    "recipeStepGroups": [
+        {
+            "links": [
+                {
+                    "rel": "recipeStepGroup.RecipeStepGroup.recipeSteps",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStepGroup\/8830654366331\/recipeSteps"
+                },
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStepGroup\/8830654366331"
+                }
+            ],
+            "recipeSteps": [
+                {
+                    "links": [
+                        {
+                            "rel": "recipeStep.RecipeStep.recipeStepIngredients",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748826236\/recipeStepIngredients"
+                        },
+                        {
+                            "rel": "recipeStep.RecipeStep.imageSlots",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748826236\/imageSlots"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748826236"
+                        }
+                    ],
+                    "number": "1",
+                    "imageSlots": [],
+                    "formattedText": "<strong>Coloque&nbsp;la mariposa<\/strong> en las cuchillas.&nbsp;Ponga en el vaso la leche, el arroz, la&nbsp;piel de lim&oacute;n y&nbsp;de naranja y la canela. Programe <nobr>40 min\/90\u00b0C\/vel 1<\/nobr>."
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "recipeStep.RecipeStep.imageSlots",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748859004\/imageSlots"
+                        },
+                        {
+                            "rel": "self",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748859004"
+                        },
+                        {
+                            "rel": "recipeStep.RecipeStep.recipeStepIngredients",
+                            "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeStep\/8834748859004\/recipeStepIngredients"
+                        }
+                    ],
+                    "number": "2",
+                    "imageSlots": [
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8808094680806"
+                                }
+                            ],
+                            "name": "ipad_recipestep_thumb",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5iPrr6Gdd2v5s5AFFvoI56zQnkpZK5n0pKEV6H20T92hapNGhKkK50h55HqUcwDDcw%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8799224055526"
+                                }
+                            ],
+                            "name": "ipad_recipestep",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5ioFiTa87MEjqDvpbJnGCCz0BJB2mte8UY6QoBeKlHOuS8HDZph894YtQdN%2BB77cBQ%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8803677193958"
+                                }
+                            ],
+                            "name": "ipad_recipestep_preview",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5i17TLwbpJXpLSWHGoSgHmy7PRElDF19jLlH7RO2UxUyi6tYlukrLPWTyzb%2F%2FF4vAQ%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8810461251302"
+                                }
+                            ],
+                            "name": "ipad_recipestep_last",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5jnfLOw21eVSP7q4oGjRZeo9rY%2FAFJNGfy3frP1HrjJX5YnwXpcEcnmoPr%2FEe3iMDA%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8800064620262"
+                                }
+                            ],
+                            "name": "iphone_recipestep_thumb",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5iPrr6Gdd2v5s5AFFvoI56zQnkpZK5n0pKEV6H20T92hapNGhKkK50h55HqUcwDDcw%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8803716155110"
+                                }
+                            ],
+                            "name": "iphone_recipestep_preview",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5iuwyq14n3lSjnURbXnuAWg95LTUQyXNksj9uz3eCxGj8Vmk9eMa7tAQOoxCJkQEWQ%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8799272519398"
+                                }
+                            ],
+                            "name": "iphone_recipestep",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5hPiC0mlWHyL%2F4DukaZiIDgntSSvDAMKmd3FJEjBSkYf3MqrDvhK%2FO1NfIOmfqMXvA%3D%3D"
+                        },
+                        {
+                            "links": [
+                                {
+                                    "rel": "self",
+                                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/imageSlot\/8800627017446"
+                                }
+                            ],
+                            "name": "iphone_recipestep_last",
+                            "url": "https:\/\/images.tmecosys.com\/images\/voS%2B6C9hpQhhaAOe6B9jeeB2CIzKZhbEqVldUVWRlVX2XXWN7jN5TCjg5PCxfwEbBBfkOidfuEBUe1lFLk3P5jyoyUljR66KhFkw%2BHdT39B4TMncUEgUja7rvpV8htIN%2FjDJzu%2FuPpmalvRUU4ad4w%3D%3D"
+                        }
+                    ],
+                    "formattedText": "A&ntilde;ada el az&uacute;car y la mantequilla. Programe <nobr>8 min\/90\u00b0C\/vel 1<\/nobr>. Vierta en una fuente peque&ntilde;a, retire las pieles de lim&oacute;n y de naranja, el palo de canela&nbsp;y deje enfriar. Sirva espolvoreado con canela molida. &nbsp;"
+                }
+            ]
+        }
+    ],
+    "categories": [],
+    "collections": [
+        {
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/recipeCollectionRef\/8830057644033"
+                }
+            ]
+        }
+    ],
+    "portion": {
+        "links": [
+            {
+                "rel": "self",
+                "href": "https:\/\/cookidoo.es\/vorwerkApiV2\/apiv2\/quantity\/8847700705898"
+            }
+        ],
+        "value": 2
+    }
+}
